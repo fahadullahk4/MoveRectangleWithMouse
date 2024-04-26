@@ -18,5 +18,5 @@ body {
     top: 50%;
     left: 50%;
     transform: translate(-50%, -50%);
-    background-color: red;
+    background-color: rgb(180, 250, 227);
 }
